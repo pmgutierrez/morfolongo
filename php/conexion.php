@@ -1,8 +1,8 @@
 <?php
 // Conexión a MySQL con PDO. Ajustá usuario/clave si tu XAMPP/Laragon es distinto.
-$host = 'localhost';
-$base = 'final_web';
-$user = 'root';
+$host = '';
+$base = '';
+$user = '';
 $pass = '';
 
 try {
